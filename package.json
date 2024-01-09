@@ -1,6 +1,6 @@
 {
   "name": "vue-wechat-emoji-picker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Vue3 emoji picker component for WeChat",
   "author": "HappyPlus",
   "private": false,

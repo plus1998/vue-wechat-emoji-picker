@@ -2,6 +2,11 @@
 
 ![example image](image.png)
 
+```shell
+npm i
+npm run dev
+```
+
 # Usage
 
 ```
@@ -13,6 +18,7 @@ npm i vue-wechat-emoji-picker --save
 <WechatEmojiPicker :scale="0.5" @on-select="onSelect" />
 ```
 
+### demo
 ```vue
 <script setup lang="ts">
 import { nextTick, ref } from 'vue'
