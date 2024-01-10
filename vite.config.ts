@@ -9,7 +9,8 @@ export default defineConfig({
     lib: {
       entry: 'src/components/WechatEmojiPicker/index.ts',
       name: 'vue-wechat-emoji-picker',
-      fileName: 'vue-wechat-emoji-picker'
+      fileName: 'index',
+      formats: ['es']
     },
     rollupOptions: {
       external: ['vue'],
