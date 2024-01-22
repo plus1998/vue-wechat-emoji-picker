@@ -17,6 +17,8 @@ const main = async () => {
         name: packageJson.name,
         version: packageJson.version,
         description: packageJson.description,
+        repository: packageJson.repository,
+        peerDependencies: packageJson.peerDependencies,
         main: 'index.js',
         files: [
             "*.css",
