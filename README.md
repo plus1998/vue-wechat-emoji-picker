@@ -1,6 +1,6 @@
 # Preview
 
-![example image](image.png)
+![example image](https://github.com/plus1998/vue-wechat-emoji-picker/blob/main/image.png?raw=true)
 
 ```shell
 npm i

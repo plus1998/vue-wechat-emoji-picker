@@ -1,10 +1,14 @@
 {
     "name": "vue-wechat-emoji-picker",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "A Vue3 emoji picker component for WeChat",
     "author": "HappyPlus",
     "private": false,
     "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/plus1998/vue-wechat-emoji-picker"
+    },
     "scripts": {
         "dev": "vite",
         "build": "vue-tsc && vite build",
