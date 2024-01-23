@@ -1,5 +1,7 @@
 # Preview
 
+[Live preview 🔗](https://codesandbox.io/p/github/plus1998/vue-wechat-emoji-picker/main)
+
 ![example image](https://github.com/plus1998/vue-wechat-emoji-picker/blob/main/image.png?raw=true)
 
 ```shell
